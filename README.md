@@ -1,6 +1,6 @@
 # Kasir-Gudang-App
 Aplikasi Gudang dan Kasir Desktop Menggunakan Java (Netbeans)
-> Aplikasi ini adalah aplikasi pertama saya saat belajar java programming
+
 
 ## Feature
 - Kelola Admin dan Petugas
